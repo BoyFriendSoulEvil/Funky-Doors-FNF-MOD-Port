@@ -1,0 +1,40 @@
+{
+	"storyName": "Eerie Presence",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "rush",
+	"freeplayColor": [
+		51,
+		51,
+		51
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Hurtle",
+			"rush",
+			[
+				51,
+				51,
+				51
+			]
+		],
+		[
+			"closeted",
+			"rush",
+			[
+				31,
+				31,
+				31
+			]
+		]
+	],
+	"weekName": "Week Rush"
+}
