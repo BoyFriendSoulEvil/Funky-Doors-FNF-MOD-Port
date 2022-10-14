@@ -1,0 +1,9 @@
+FUNKY DOORS TEAM
+Cool Leaf::coolleaf::Artist, Coder::https://www.youtube.com/c/CoolLeaf::0xFF0c60e8
+BlazingGreenFire::blazing::Composed, Charted Hurtle::https://www.youtube.com/channel/UCLcnTMxdui57ituZpSHYlMA::0xFF11d428
+Toot Link::toot::Composed, Charted and Coded Closeted::https://www.youtube.com/c/TootLink::0xFF2c89bf
+
+SPECIAL THANKS
+MTFuture::mtfuture::Lua Pause Menu::https://www.youtube.com/c/MTFuture::0xFF00c2fc
+Gavman22::gavman::Lua Pause Menu Origin::https://www.youtube.com/channel/UCh9MyBlyda-e1o-0iDUIckw::0xFF595959
+Indie Cross Psych Port::nil::Some Scripts::https://gamebanana.com/mods/382040::0xFF4d1380
