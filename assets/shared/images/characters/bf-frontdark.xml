@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-frontdark.png">
+	<SubTexture name="bf idle 0000" x="0" y="0" width="550" height="550"/>
+	<SubTexture name="bf idle 0001" x="550" y="0" width="550" height="550"/>
+	<SubTexture name="bf idle 0002" x="1100" y="0" width="550" height="550"/>
+	<SubTexture name="bf idle 0003" x="1650" y="0" width="550" height="550"/>
+	<SubTexture name="bf idle 0004" x="2200" y="0" width="550" height="550"/>
+	<SubTexture name="bf idle 0005" x="2750" y="0" width="550" height="550"/>
+	<SubTexture name="bf left 0000" x="0" y="550" width="550" height="550"/>
+	<SubTexture name="bf left 0001" x="550" y="550" width="550" height="550"/>
+	<SubTexture name="bf down 0000" x="1100" y="550" width="550" height="550"/>
+	<SubTexture name="bf down 0001" x="1650" y="550" width="550" height="550"/>
+	<SubTexture name="bf up 0000" x="2200" y="550" width="550" height="550"/>
+	<SubTexture name="bf up 0001" x="2750" y="550" width="550" height="550"/>
+	<SubTexture name="bf right 0000" x="0" y="1100" width="550" height="550"/>
+	<SubTexture name="bf right 0001" x="550" y="1100" width="550" height="550"/>
+	<SubTexture name="bf missleft 0000" x="1100" y="1100" width="550" height="550"/>
+	<SubTexture name="bf missleft 0001" x="1650" y="1100" width="550" height="550"/>
+	<SubTexture name="bf missdown 0000" x="2200" y="1100" width="550" height="550"/>
+	<SubTexture name="bf missdown 0001" x="2750" y="1100" width="550" height="550"/>
+	<SubTexture name="bf missup 0000" x="0" y="1650" width="550" height="550"/>
+	<SubTexture name="bf missup 0001" x="550" y="1650" width="550" height="550"/>
+	<SubTexture name="bf missright 0000" x="1100" y="1650" width="550" height="550"/>
+	<SubTexture name="bf missright 0001" x="1650" y="1650" width="550" height="550"/>
+</TextureAtlas>

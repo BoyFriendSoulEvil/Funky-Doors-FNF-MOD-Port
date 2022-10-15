@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rush.png">
+	<SubTexture name="rush idle 0000" x="0" y="0" width="557" height="617"/>
+	<SubTexture name="rush idle 0001" x="557" y="0" width="557" height="617"/>
+	<SubTexture name="rush idle 0002" x="1114" y="0" width="557" height="617"/>
+	<SubTexture name="rush idle 0003" x="1671" y="0" width="557" height="617"/>
+	<SubTexture name="rush idle 0004" x="0" y="617" width="557" height="617"/>
+	<SubTexture name="rush idle 0005" x="557" y="617" width="557" height="617"/>
+	<SubTexture name="rush left 0000" x="1114" y="617" width="557" height="617"/>
+	<SubTexture name="rush left 0001" x="1671" y="617" width="557" height="617"/>
+	<SubTexture name="rush down 0000" x="0" y="1234" width="557" height="617"/>
+	<SubTexture name="rush down 0001" x="557" y="1234" width="557" height="617"/>
+	<SubTexture name="rush up 0000" x="1114" y="1234" width="557" height="617"/>
+	<SubTexture name="rush up 0001" x="1671" y="1234" width="557" height="617"/>
+	<SubTexture name="rush right 0000" x="0" y="1851" width="557" height="617"/>
+	<SubTexture name="rush right 0001" x="557" y="1851" width="557" height="617"/>
+</TextureAtlas>
